@@ -1,0 +1,16 @@
+C:\Users\Pichau\Documents\ProjetoFinal\Chamada\obj\Debug\net5.0\Chamada.csproj.AssemblyReference.cache
+C:\Users\Pichau\Documents\ProjetoFinal\Chamada\obj\Debug\net5.0\Chamada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Documents\ProjetoFinal\Chamada\obj\Debug\net5.0\Chamada.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\ProjetoFinal\Chamada\obj\Debug\net5.0\Chamada.AssemblyInfo.cs
+C:\Users\Pichau\Documents\ProjetoFinal\Chamada\obj\Debug\net5.0\Chamada.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\ProjetoFinal\Chamada\bin\Debug\net5.0\Chamada.exe
+C:\Users\Pichau\Documents\ProjetoFinal\Chamada\bin\Debug\net5.0\Chamada.deps.json
+C:\Users\Pichau\Documents\ProjetoFinal\Chamada\bin\Debug\net5.0\Chamada.runtimeconfig.json
+C:\Users\Pichau\Documents\ProjetoFinal\Chamada\bin\Debug\net5.0\Chamada.runtimeconfig.dev.json
+C:\Users\Pichau\Documents\ProjetoFinal\Chamada\bin\Debug\net5.0\Chamada.dll
+C:\Users\Pichau\Documents\ProjetoFinal\Chamada\bin\Debug\net5.0\Chamada.pdb
+C:\Users\Pichau\Documents\ProjetoFinal\Chamada\obj\Debug\net5.0\Chamada.dll
+C:\Users\Pichau\Documents\ProjetoFinal\Chamada\obj\Debug\net5.0\refint\Chamada.dll
+C:\Users\Pichau\Documents\ProjetoFinal\Chamada\obj\Debug\net5.0\Chamada.pdb
+C:\Users\Pichau\Documents\ProjetoFinal\Chamada\obj\Debug\net5.0\Chamada.genruntimeconfig.cache
+C:\Users\Pichau\Documents\ProjetoFinal\Chamada\obj\Debug\net5.0\ref\Chamada.dll
